@@ -1,4 +1,5 @@
 this is file2 new created in master branch
+& then modified in feature1 branch midified content in file2 in feature1 branch
 
 This is file2 new created in master branch and again modified in master branch
 changed file2 content
